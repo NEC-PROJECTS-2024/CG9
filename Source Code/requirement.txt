@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+numpy
+datetime
+XGBRegressor
+MinMaxScaler
+seaborn
+joblib
+flask
+tensorflow
+LSTM
+streamlit
+
+# Add other dependencies as needed
